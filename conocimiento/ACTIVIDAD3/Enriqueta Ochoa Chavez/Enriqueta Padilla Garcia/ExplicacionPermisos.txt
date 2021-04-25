@@ -1,0 +1,5 @@
+tres niveles de permisos diferentes: uno para el propietario, otro para los usuarios del mismo grupo que el propietario, y otro para los demás usuarios. A su vez, cada uno de estos niveles puede tener 3 valores diferentes en función del grado de privilegios que especifiquemos en el sistema. Estos valores podemos especificarlos por las siguientes letras:
+
+r – permiso de lectura (permite abrirlo, copiarlo, etc).
+w – permiso de escritura (permite modificarlo, borrarlo, etc).
+x – permiso de ejecución (si es binario, permite ejecutarlo).
